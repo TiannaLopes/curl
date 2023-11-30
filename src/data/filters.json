@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "categoryText": "Curl Pass",
+    "svgName": "leaf.svg",
+    "filterType": "button"
+  },
+  {
+    "id": 1,
+    "categoryText": "Offers",
+    "svgName": "offers.svg",
+    "filterType": "button"
+  },
+  {
+    "id": 2,
+    "categoryText": "Rating",
+    "svgName": "stars.svg",
+    "filterType": "dropdown"
+  },
+  {
+    "id": 3,
+    "categoryText": "Appointment Time",
+    "svgName": "time.svg",
+    "filterType": "dropdown"
+  },
+  {
+    "id": 4,
+    "categoryText": "Price",
+    "svgName": "price.svg",
+    "filterType": "sort"
+  }
+]

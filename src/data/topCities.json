@@ -1,0 +1,22 @@
+[
+  { "city": "New York", "ordersPerHour": 3800 },
+  { "city": "Los Angeles", "ordersPerHour": 2500 },
+  { "city": "Chicago", "ordersPerHour": 4200 },
+  { "city": "Houston", "ordersPerHour": 3100 },
+  { "city": "Phoenix", "ordersPerHour": 1800 },
+  { "city": "Philadelphia", "ordersPerHour": 3200 },
+  { "city": "San Antonio", "ordersPerHour": 2700 },
+  { "city": "San Diego", "ordersPerHour": 3400 },
+  { "city": "Dallas", "ordersPerHour": 4300 },
+  { "city": "San Jose", "ordersPerHour": 2000 },
+  { "city": "Austin", "ordersPerHour": 2900 },
+  { "city": "Jacksonville", "ordersPerHour": 1500 },
+  { "city": "Fort Worth", "ordersPerHour": 2600 },
+  { "city": "Columbus", "ordersPerHour": 4000 },
+  { "city": "Charlotte", "ordersPerHour": 2200 },
+  { "city": "Indianapolis", "ordersPerHour": 3600 },
+  { "city": "Seattle", "ordersPerHour": 3100 },
+  { "city": "Denver", "ordersPerHour": 2800 },
+  { "city": "Washington, D.C.", "ordersPerHour": 3800 },
+  { "city": "Boston", "ordersPerHour": 3300 }
+]

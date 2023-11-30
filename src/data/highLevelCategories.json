@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "categoryText": "Offers",
+    "svgName": "promotion.svg"
+  },
+  {
+    "id": 1,
+    "categoryText": "Spa Packages",
+    "svgName": "spa-package.svg"
+  },
+  {
+    "id": 2,
+    "categoryText": "Hair Services",
+    "svgName": "hair-services.svg"
+  },
+  {
+    "id": 3,
+    "categoryText": "Skin Care",
+    "svgName": "skin-care.svg"
+  },
+  {
+    "id": 4,
+    "categoryText": "Massage",
+    "svgName": "massage.svg"
+  },
+  {
+    "id": 5,
+    "categoryText": "Nail",
+    "svgName": "nail.svg"
+  },
+  {
+    "id": 6,
+    "categoryText": "Makeup",
+    "svgName": "mascara.svg"
+  },
+  {
+    "id": 7,
+    "categoryText": "Eyelashes",
+    "svgName": "eyelashes.svg"
+  },
+  {
+    "id": 8,
+    "categoryText": "Wellness",
+    "svgName": "weight.svg"
+  },
+  {
+    "id": 9,
+    "categoryText": "Products",
+    "svgName": "products.svg"
+  }
+]

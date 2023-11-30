@@ -1,0 +1,107 @@
+[
+  {
+    "id": 0,
+    "categoryText": "Pedicure",
+    "svgName": "pedicure.svg"
+  },
+  {
+    "id": 1,
+    "categoryText": "Highlights",
+    "svgName": "highlights.svg"
+  },
+  {
+    "id": 2,
+    "categoryText": "Haircut",
+    "svgName": "haircut.svg"
+  },
+  {
+    "id": 3,
+    "categoryText": "Massage Therapy",
+    "svgName": "massage.svg"
+  },
+  {
+    "id": 4,
+    "categoryText": "Facial Treatments",
+    "svgName": "facial.svg"
+  },
+  {
+    "id": 5,
+    "categoryText": "Fitness Classes",
+    "svgName": "fitness.svg"
+  },
+  {
+    "id": 6,
+    "categoryText": "Bridal Hair and Makeup",
+    "svgName": "bridal-makeup.svg"
+  },
+  {
+    "id": 7,
+    "categoryText": "Eyelash Extensions",
+    "svgName": "eyelash-extensions.svg"
+  },
+  {
+    "id": 8,
+    "categoryText": "Spa Packages",
+    "svgName": "spa-package.svg"
+  },
+  {
+    "id": 9,
+    "categoryText": "Foot Massage",
+    "svgName": "foot-massage.svg"
+  },
+  {
+    "id": 10,
+    "categoryText": "Hair Extensions",
+    "svgName": "extensions.svg"
+  },
+  {
+    "id": 11,
+    "categoryText": "Tanning",
+    "svgName": "tanning.svg"
+  },
+  {
+    "id": 12,
+    "categoryText": "Barber Services",
+    "svgName": "barber.svg"
+  },
+  {
+    "id": 13,
+    "categoryText": "Sauna and Steam Rooms",
+    "svgName": "sauna.svg"
+  },
+  {
+    "id": 14,
+    "categoryText": "Laser",
+    "svgName": "laser-2.svg"
+  },
+  {
+    "id": 15,
+    "categoryText": "Acupuncture",
+    "svgName": "acupuncture.svg"
+  },
+  {
+    "id": 16,
+    "categoryText": "Yoga Classes",
+    "svgName": "yoga.svg"
+  },
+  {
+    "id": 17,
+    "categoryText": "Body Wraps",
+    "svgName": "body-wraps.svg"
+  },
+  {
+    "id": 18,
+    "categoryText": "Permanent Makeup",
+    "svgName": "mascara.svg"
+  },
+  {
+    "id": 19,
+    "categoryText": "MicroBlading",
+    "svgName": "microblading.svg"
+  },
+  {
+    "id": 20,
+    "categoryText": "Gym Memberships",
+    "svgName": "weight.svg"
+  }
+]

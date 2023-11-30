@@ -1,0 +1,22 @@
+[
+  { "service": "Massage", "averageRating": 4 },
+  { "service": "Haircut", "averageRating": 3 },
+  { "service": "Yoga Classes", "averageRating": 5 },
+  { "service": "Hair Styling", "averageRating": 4 },
+  { "service": "Hot Stone Massage", "averageRating": 2 },
+  { "service": "Fitness Training", "averageRating": 4 },
+  { "service": "Facial", "averageRating": 3 },
+  { "service": "Coloring", "averageRating": 4 },
+  { "service": "Meditation", "averageRating": 5 },
+  { "service": "Waxing", "averageRating": 3 },
+  { "service": "Body Wrap", "averageRating": 4 },
+  { "service": "Manicure", "averageRating": 1 },
+  { "service": "Nutrition Counseling", "averageRating": 3 },
+  { "service": "Aromatherapy", "averageRating": 5 },
+  { "service": "Makeup", "averageRating": 2 },
+  { "service": "Holistic Therapies", "averageRating": 4 },
+  { "service": "Haircut", "averageRating": 4 },
+  { "service": "Exfoliation", "averageRating": 3 },
+  { "service": "Health Coaching", "averageRating": 4 },
+  { "service": "Massage", "averageRating": 3 }
+]
