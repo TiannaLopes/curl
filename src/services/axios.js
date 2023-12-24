@@ -1,8 +1,7 @@
-// src/services/axios.js
-import axios from "axios";
 
-const instance = axios.create({
-  baseURL: "http://localhost:3000/api", // Your backend API base URL
-});
+import axios from 'axios';
+const BASE_URL = 'https://curl-booking.ue.r.appspot.com/api/';
 
-export default instance;
+export function fetchSomeData() {
+  return axios.get(`${BASE_URL}endpoint`);
+}
