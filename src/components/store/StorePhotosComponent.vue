@@ -3,10 +3,10 @@
     <!-- Header with logo and main dish photo -->
     <div class="row align-items-center my-3">
       <div class="col-2">
-        <!-- <img src="../../assets/images/facial.jpg" alt="Restaurant Logo" class="rounded-circle" /> -->
+        <img src="../../assets/images/facial.jpg" alt="Restaurant Logo" class="rounded-circle logo" />
       </div>
       <div class="col-8">
-        <img src="../../assets/images/nails-grey.jpg" alt="Main Dish" class="img-fluid" />
+        <img src="../../assets/images/nails-grey.jpg" class="img-fluid main-dish" alt="Main Dish" />
       </div>
       <div class="col-2 text-end">
         <button class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#photosModal">
