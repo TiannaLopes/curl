@@ -3,8 +3,11 @@
   <!-- Main content -->
   <div class="container my-5">
     <div class="row">
+      <StorePhotosComponent />
+    </div>
+    <div class="row">
       <div class="col-4">
-        <StoreDetailsComponent/>
+        <StoreDetailsComponent />
         <FullMenuComponent />
       </div>
       <div class="col-8">
@@ -16,7 +19,7 @@
                 <h4 class="my-0 font-weight-normal">{{ service.name }}</h4>
               </div>
               <div class="card-body">
-                <h1 class=" pricing-card-title">
+                <h1 class="pricing-card-title">
                   {{ formatCurrency(service.price) }}
                 </h1>
                 <ul class="list mt-3 mb-4">
@@ -51,17 +54,27 @@
       </div>
     </div>
   </div>
+  <FooterComponent />
 </template>
 
 
 <script>
 import NavbarComponent from "@/components/shared/NavbarComponent.vue";
+import FooterComponent from "@/components/core/FooterComponent.vue"
 import FullMenuComponent from "@/components/FullMenuComponent.vue";
-import StoreReviewsComponent from "@/components/StoreReviewsComponent.vue";
-import StoreDetailsComponent from "@/components/StoreDetailsComponent.vue"
+import StoreReviewsComponent from "@/components/store/StoreReviewsComponent.vue";
+import StoreDetailsComponent from "@/components/store/StoreDetailsComponent.vue";
+import StorePhotosComponent from "@/components/store/StorePhotosComponent.vue";
 export default {
   name: "StoreView",
-  components: { NavbarComponent, FullMenuComponent, StoreReviewsComponent, StoreDetailsComponent },
+  components: {
+    NavbarComponent,
+    FooterComponent,
+    FullMenuComponent,
+    StoreReviewsComponent,
+    StoreDetailsComponent,
+    StorePhotosComponent,
+  },
   data() {
     return {
       services: [

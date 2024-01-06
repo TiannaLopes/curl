@@ -17,8 +17,8 @@ import HighLevelCategoriesComponent from "@/components/HighLevelCategoriesCompon
 import CategoriesComponent from "@/components/CategoriesComponent.vue";
 import FiltersComponent from "@/components/FiltersComponent.vue";
 import OfferCardsComponent from "@/components/OfferCardsComponent.vue";
-import StoreCardsComponent from "@/components/StoreCardsComponent.vue";
-import FooterComponent from "@/components/FooterComponent.vue";
+import StoreCardsComponent from "@/components/store/StoreCardsComponent.vue";
+import FooterComponent from "@/components/core/FooterComponent.vue";
 
 export default {
   name: "HomeView",
