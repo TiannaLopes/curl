@@ -138,7 +138,7 @@ header {
 .shopping-cart-icon {
   display: flex;
   align-items: center;
-  margin-right: 20px; /* Adjust this margin to control the spacing */
+  margin-right: 20px; 
 }
 
 .notification-icon .badge {

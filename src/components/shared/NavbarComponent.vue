@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <header class="row pt-4 pd-3 mx-0 align-items-center">
+    <header class="row p-0 mx-0 align-items-center">
       <div class="col-3 d-flex align-items-center">
         <div class="row">
           <div class="col-4">
