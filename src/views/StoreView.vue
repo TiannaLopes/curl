@@ -16,10 +16,10 @@
                 <h4 class="my-0 font-weight-normal">{{ service.name }}</h4>
               </div>
               <div class="card-body">
-                <h1 class="card-title pricing-card-title">
+                <h1 class=" pricing-card-title">
                   {{ formatCurrency(service.price) }}
                 </h1>
-                <ul class="list-unstyled mt-3 mb-4">
+                <ul class="list mt-3 mb-4">
                   <li v-for="feature in service.features" :key="feature">
                     {{ feature }}
                   </li>

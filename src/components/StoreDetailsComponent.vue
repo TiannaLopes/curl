@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-4 border">
+  <div class="container my-4 border rounded">
     <div class="row">
       <h2>{{ storeInfo.name }}</h2>
       <div class="col-lg-8">
