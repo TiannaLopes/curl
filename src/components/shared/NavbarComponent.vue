@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <header class="row pt-4 pd-3">
-      <div class="col-3 d-flex">
+    <header class="row pt-4 pd-3 mx-0 align-items-center">
+      <div class="col-3 d-flex align-items-center">
         <div class="row">
           <div class="col-4">
             <button
@@ -140,31 +140,21 @@
             </div>
           </div>
         </div>
-        <div class="col-3">
-          <h1 class="text-center fw-bold ms-5">Curl</h1>
-        </div>
+     <div class="col-3 d-flex align-items-center"> 
+        <h1 class="text-center fw-bold ms-5">Curl</h1>
       </div>
-      <div class="col-4"></div>
-      <div class="col-3">
-        <div class="input-group search-bar">
-          <input
-            type="text"
-            class="form-control py-2"
-            placeholder="Search..."
-            aria-label="Search"
-            aria-describedby="basic-addon2"
-          />
-          <button class="btn btn-secondary" type="button">Search</button>
-        </div>
       </div>
-      <div class="col-2">
-        <div class="row d-flex">
-          <div class="col-6"></div>
-          <div class="notification-icon col-2">
+    <div class="col-4"></div>
+     <div class="col-3 d-flex justify-content-end align-items-center">
+   <StoreSearchBarComponent />
+      </div>
+   <div class="col-2 d-flex justify-content-end align-items-center">
+        <div class="d-flex align-items-center">  
+          <div class="notification-icon me-3">  
             <i class="bi bi-bell fs-3"></i>
             <span class="badge bg-danger">3</span>
           </div>
-          <div class="shopping-cart-icon col-2">
+          <div class="shopping-cart-icon">
             <i class="bi bi-cart fs-3"></i>
           </div>
         </div>
@@ -174,11 +164,13 @@
 </template>
 
 <script>
+import StoreSearchBarComponent from './StoreSearchBarComponent.vue';
 export default {
   name: "NavbarComponent",
   data() {
     return {};
   },
+  components: {StoreSearchBarComponent},
   methods: {},
 };
 </script>
@@ -191,10 +183,6 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-.search-bar {
-  max-width: 500px;
 }
 
 .notification-icon,
