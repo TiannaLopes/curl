@@ -59,9 +59,9 @@
 
 
 <script>
-import NavbarComponent from "@/components/shared/NavbarComponent.vue";
+import NavbarComponent from "@/components/core/NavbarComponent.vue";
 import FooterComponent from "@/components/core/FooterComponent.vue"
-import FullMenuComponent from "@/components/FullMenuComponent.vue";
+import FullMenuComponent from "@/components/store-search/FullMenuComponent.vue";
 import StoreReviewsComponent from "@/components/store/StoreReviewsComponent.vue";
 import StoreDetailsComponent from "@/components/store/StoreDetailsComponent.vue";
 import StorePhotosComponent from "@/components/store/StorePhotosComponent.vue";

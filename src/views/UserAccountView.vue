@@ -8,8 +8,8 @@
   </div>
 </template>
 <script>
-import NavbarComponent from "@/components/shared/NavbarComponent.vue";
-import ProfileComponent from "@/components/ProfileComponent.vue";
+import NavbarComponent from "@/components/core/NavbarComponent.vue";
+import ProfileComponent from "@/components/account/ProfileComponent.vue";
 import FooterComponent from "@/components/core/FooterComponent.vue";
 
 export default {

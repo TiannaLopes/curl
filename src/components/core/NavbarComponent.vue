@@ -164,7 +164,7 @@
 </template>
 
 <script>
-import StoreSearchBarComponent from './StoreSearchBarComponent.vue';
+import StoreSearchBarComponent from '../shared/StoreSearchBarComponent.vue';
 export default {
   name: "NavbarComponent",
   data() {

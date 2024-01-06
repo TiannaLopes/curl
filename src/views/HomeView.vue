@@ -12,11 +12,11 @@
   </div>
 </template>
 <script>
-import NavbarComponent from "@/components/shared/NavbarComponent.vue";
-import HighLevelCategoriesComponent from "@/components/HighLevelCategoriesComponent.vue";
-import CategoriesComponent from "@/components/CategoriesComponent.vue";
-import FiltersComponent from "@/components/FiltersComponent.vue";
-import OfferCardsComponent from "@/components/OfferCardsComponent.vue";
+import NavbarComponent from "@/components/core/NavbarComponent.vue";
+import HighLevelCategoriesComponent from "@/components/store-search/HighLevelCategoriesComponent.vue";
+import CategoriesComponent from "@/components/store-search/CategoriesComponent.vue";
+import FiltersComponent from "@/components/store-search/FiltersComponent.vue";
+import OfferCardsComponent from "@/components/store-search/OfferCardsComponent.vue";
 import StoreCardsComponent from "@/components/store/StoreCardsComponent.vue";
 import FooterComponent from "@/components/core/FooterComponent.vue";
 

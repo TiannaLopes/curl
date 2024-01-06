@@ -31,7 +31,7 @@
   </div>
 </template>
 <script>
-import NavbarComponentNotLoggedIn from "@/components/shared/NavbarComponentNotLoggedIn";
+import NavbarComponentNotLoggedIn from "@/components/core/NavbarComponentNotLoggedIn";
 export default {
   name: "AboutUs",
   components: { NavbarComponentNotLoggedIn },
